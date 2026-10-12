@@ -1,1 +1,3 @@
-# MY-HOPE-WILL-NEVER-DIE-
+<p align="center">
+  <img src="img/example.png">
+</p>
