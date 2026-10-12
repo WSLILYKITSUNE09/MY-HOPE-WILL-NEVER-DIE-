@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="img/example.png">
+  <img width="200px" src="image.png" alt="Описание">
 </p>
