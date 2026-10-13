@@ -27,5 +27,5 @@
   
   &nbsp;
 <p align="center">
-<img width="400" height="400" src="">
+<img width="1280" height="200" src="">
   
