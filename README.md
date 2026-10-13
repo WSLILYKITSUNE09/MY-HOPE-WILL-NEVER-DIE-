@@ -21,7 +21,7 @@
 <p align="center">
 𝘀𝗵𝗲/𝘁𝗵𝗲𝘆 𝗢𝗡𝗟𝗬!
   <p align="center">
-    𝘂𝗸𝗿/𝗿𝘂𝘀/𝗲𝗻𝗴
+    𝘂𝗸/𝗿𝘂𝘀/𝗲𝗻𝗴
     <p align="center">
     (𝗯𝗮𝗱 𝗲𝗻𝗴𝗹𝗶𝘀𝗵 𝗴𝗿𝗮𝗺𝗺𝗮𝗿 𝗜'𝗺 𝘀𝗼𝗿𝗿𝘆)
   <p align="center">
