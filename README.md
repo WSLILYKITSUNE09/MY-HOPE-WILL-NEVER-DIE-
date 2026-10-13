@@ -16,7 +16,7 @@
 &nbsp;
   <p align="center">
 <img width= "70" src="IMG_3280.PNG"> <img width= "70" src="IMG_3280.PNG"> <img width= "70" src="IMG_3280.PNG">
-<p align="center">
+<p align="center"> 
 𝗟𝗶𝗹𝗶𝗯𝗲𝘁/𝗟𝗶𝗹𝘆/𝗕𝗲𝘁𝘁𝘆
 <p align="center">
 𝘀𝗵𝗲/𝘁𝗵𝗲𝘆 𝗢𝗡𝗟𝗬!
@@ -42,7 +42,7 @@
 𝗗𝗡𝗜: basic dni criteria, boundary breakers, -14 y.o., Israel/Russia/Azerbaijan supporters.
 
  <p align="center">
-    <img width="60" height="200" src="IMG_3104.PNG"> <img width="60" height="200" src="Кость.png"> <img width="60" height="200" src="IMG_3104.PNG"> 
+<img width="60" height="200" src=" Кость.png"> <img width="60" height="200" src="IMG_3104.PNG"> <img width="60" height="200" src="IMG_3104.PNG"> <img width="60" height="200" src=" Кость.png"> 
   &nbsp;
 <p align="center">
   <img src="Нян.png"> 
