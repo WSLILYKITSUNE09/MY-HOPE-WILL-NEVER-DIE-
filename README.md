@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Нян.png">
+  <img src="">
   &nbsp;
 &nbsp;
 &nbsp;
@@ -27,5 +27,5 @@
   
   &nbsp;
 <p align="center">
-<img width="1280" height="200" src="">
+  <img src="Нян.png">
   
