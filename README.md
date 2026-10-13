@@ -1,14 +1,17 @@
+<p align="left">
+&nbsp; &nbsp; &nbsp; <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG">
+&nbsp;
 <p align="center">
-  <img width="500" height="100" src="7d6fe598aaf42caf4c10c8af787aa5fe.jpg">
+  <img width="500" height="100" src="470a55f58c82d473d6a068a775f6baa6.jpg">
   &nbsp;
  <p align="center">
-  <img width="500" height="100" src=""> 
+  <img width="500" height="100" src="13e0d999bd88faac401c8d8d79bc2f98.jpg"> 
    &nbsp;
    <p align="center">
-  <img width="500" height="100" src=""> 
+  <img width="500" height="100" src="76ffe6b7c38d5abd1599bbe175592cb7.jpg"> 
      &nbsp;
    <p align="center">
-&nbsp; &nbsp; <img width="500" height="100" src=""> 
+&nbsp; &nbsp; <img width="500" height="100" src="7d6fe598aaf42caf4c10c8af787aa5fe.jpg"> 
 &nbsp;  
 &nbsp;
 &nbsp;
@@ -22,12 +25,15 @@
     (𝗯𝗮𝗱 𝗲𝗻𝗴𝗹𝗶𝘀𝗵 𝗴𝗿𝗮𝗺𝗺𝗮𝗿 𝗜'𝗺 𝘀𝗼𝗿𝗿𝘆)
   <p align="center">
 &nbsp; 𝗜𝗡𝗙𝗣, 𝘀𝗽𝟭𝘀𝗽𝟯𝘀𝘅𝟱, 𝟭𝘄𝟵
+    <p align="center">
+    <img width= "100" src="IMG_3042.PNG">
   &nbsp;
   &nbsp;
   &nbsp;
 <p align="center">
-<img width="400" height="400" src="cc932ca34886a7048d6a33c1c1a54e25.jpg">
-  
+<img width="400" height="400" src="cc932ca34886a7048d6a33c1c1a54e25.jpg"> 
+  <p align="center">
+&nbsp; <img width= "70" src="IMG_3278.PNG"> <img width= "70" src="IMG_3278.PNG"> <img width= "70" src="IMG_3278.PNG">
 &nbsp;
 &nbsp;
   &nbsp;
@@ -36,5 +42,7 @@
   
   &nbsp;
 <p align="center">
-  <img src="Нян.png">
-  
+  <img src="Нян.png"> 
+<p align="left">
+&nbsp; &nbsp; &nbsp; <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG">
+&nbsp;
