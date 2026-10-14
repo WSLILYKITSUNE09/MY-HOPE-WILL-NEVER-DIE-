@@ -32,6 +32,8 @@
        <p align="center">
   <a href="https://takeashot.atabook.org">ATABOOK</a> &nbsp; &nbsp; <a href="https://steamcommunity.com/id/wslilykitsune/">STEAM</a> &nbsp; &nbsp; <a href="https://t.me/holylilyinfo">TG INFO</a> &nbsp; &nbsp; [staw page in progress]
 </p>
+<p align="center">
+   <img width= "200" src="IMG_3129.PNG"> <img width= "200" src="IMG_3129.PNG">
   &nbsp;
   &nbsp;
   &nbsp;
