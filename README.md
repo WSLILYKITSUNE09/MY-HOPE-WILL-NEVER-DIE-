@@ -1,5 +1,5 @@
-<p align="left">
-&nbsp; &nbsp; &nbsp; <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG">
+<p align="center">
+<img width= "190" src="IMG_4302.PNG"> <img width= "190" src="IMG_4302.PNG"> <img width= "190" src="IMG_4302.PNG">
 &nbsp;
    <p align="center">
   <img width="500" height="100" src="36c92e5b16d540b32bae9353e93a7ddf.jpg">
@@ -46,6 +46,5 @@
   &nbsp;
 <p align="center">
   <img src="Нян.png"> 
-<p align="left">
-&nbsp; &nbsp; &nbsp; <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG"> <img width= "70" src="IMG_4302.PNG">
-&nbsp;
+<p align="center">
+<img width= "190" src="IMG_4302.PNG"> <img width= "190" src="IMG_4302.PNG"> <img width= "190" src="IMG_4302.PNG">
