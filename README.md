@@ -26,8 +26,12 @@
     (𝗯𝗮𝗱 𝗲𝗻𝗴𝗹𝗶𝘀𝗵 𝗴𝗿𝗮𝗺𝗺𝗮𝗿 𝗜'𝗺 𝘀𝗼𝗿𝗿𝘆)
   <p align="center">
 &nbsp; 𝗜𝗡𝗙𝗣, 𝘀𝗽𝟭𝘀𝗽𝟯𝘀𝘅𝟱, 𝟭𝘄𝟵
+      &nbsp;
     <p align="center">
     <img width= "100" src="IMG_3042.PNG">
+       <p align="center">
+  <a href="https://takeashot.atabook.org">ATABOOK</a> &nbsp; &nbsp; <a href="https://steamcommunity.com/id/wslilykitsune/">STEAM</a> &nbsp; &nbsp; <a href="https://t.me/holylilyinfo">TG INFO</a> &nbsp; &nbsp; [staw page in progress]
+</p>
   &nbsp;
   &nbsp;
   &nbsp;
