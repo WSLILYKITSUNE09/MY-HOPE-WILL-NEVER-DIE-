@@ -35,6 +35,8 @@
 <p align="center">
    <img width= "200" src="IMG_3129.PNG"> <img width= "200" src="IMG_3129.PNG">
   &nbsp;
+   <p align="center">
+   <a href="https://hits.sh/github.com/WSLILYKITSUNE09/"><img alt="Hits" src="https://hits.sh/github.com/WSLILYKITSUNE09.svg?view=today-total&style=plastic&label=VIEWS&color=f166f9&labelColor=31a1fd"/></a>
   &nbsp;
   &nbsp;
 <p align="center">
